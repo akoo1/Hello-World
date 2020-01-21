@@ -1,2 +1,5 @@
 # Hello-World
-Just another repository
+
+Hello good humans, 
+
+I'm a junior computer science major at SMU
